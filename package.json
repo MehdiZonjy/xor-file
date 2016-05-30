@@ -1,6 +1,6 @@
 {
     "name": "xor-file",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "xor file's binary content",
     "main": "xor-file.js",
     "bin": {
