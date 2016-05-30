@@ -1,0 +1,22 @@
+{
+  "name": "xor-file",
+  "version": "1.0.0",
+  "description": "xor file's binary content",
+  "main": "index.js",
+  "bin": {
+    "xor-file": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xor",
+    "file",
+    "encryption"
+  ],
+  "author": "mehdi zonjy",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
